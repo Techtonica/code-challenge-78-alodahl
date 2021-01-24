@@ -1,0 +1,11 @@
+{
+  "tests": [
+    {
+      "name": "new",
+      "setup": "",
+      "run": "npm run test --onlyChanged",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
